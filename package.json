@@ -1,0 +1,15 @@
+{
+  "name": "chat-app-socketio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "quangnt",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "socket.io": "^4.1.1"
+  }
+}
